@@ -1,0 +1,1 @@
+document.getElementsByTagName("div")[0].style.fontSize = "6vw";
